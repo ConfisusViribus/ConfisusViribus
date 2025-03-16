@@ -5,6 +5,8 @@
 * **Data-Driven Conservation Scientist** – Expert in advanced statistical modeling and spatial analysis, integrating real-world field data with ecological insights. Proficient in R, qGIS, and remote sensing, applying data science to shark telemetry, fisheries monitoring, and spatial modeling to inform conservation strategies.
 * **Collaborator & Communicator** – Extensive experience across academia, NGOs, and conservation organizations, holding leadership roles in research institutions and large-scale projects. Skilled in mentoring researchers, leading multidisciplinary teams, publishing in peer-reviewed journals, presenting at international conferences, and engaging stakeholders to drive marine conservation efforts.
 
+## Connect with me on:
+
 [<img align="left" alt="Ralph Watson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Ralph Watson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Ralph Watson | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
