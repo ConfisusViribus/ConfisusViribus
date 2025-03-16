@@ -7,9 +7,9 @@
 
 ## Connect with me on:
 
-[<img align="left" alt="Ralph Watson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Ralph Watson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Ralph Watson | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Ralph Watson | LinkedIn" width="22px" src="https://github.com/CLorant/readme-social-icons/raw/main/medium/filled/facebook.svg" />][facebook]
+[<img align="left" alt="Ralph Watson | LinkedIn" width="22px" src="https://github.com/CLorant/readme-social-icons/raw/main/medium/filled/linkedin.svg" />][linkedin]
+[<img align="left" alt="Ralph Watson | Instagram" width="22px" src="https://github.com/CLorant/readme-social-icons/raw/main/medium/filled/instagram.svg" />][instagram]
 
 
 [facebook]: https://www.facebook.com/ralph.watson.18
